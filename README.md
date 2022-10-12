@@ -29,4 +29,5 @@
 https://pythonelegance.herokuapp.com/
 
 Score 척도는 점수가 높을수록 잘 작성된 코드로 판단합니다.
+
 Score 척도를 제외한 척도들은 수치가 낮을수록 잘 작성된 코드로 판단합니다.
