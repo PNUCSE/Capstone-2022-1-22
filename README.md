@@ -45,6 +45,10 @@ score를 제외한 척도들은 수치가 낮을수록 잘 작성된 코드로 �
 
 ## 6. 라이브러리
 
-[dabeaz](https://github.com/dabeaz) - [PLY - Python Lex-Yacc](https://github.com/dabeaz/ply)
+* [dabeaz](https://github.com/dabeaz) - [PLY - Python Lex-Yacc](https://github.com/dabeaz/ply)
 
-[PyCQA](https://github.com/PyCQA) - [Flake8](https://github.com/PyCQA/flake8)
+- 소스코드 구조 분석에 사용됨
+
+* [PyCQA](https://github.com/PyCQA) - [Flake8](https://github.com/PyCQA/flake8)
+
+- PEP 8 위반 확인에 사용됨
