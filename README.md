@@ -25,7 +25,7 @@ PEM을 사용해 볼 수 있는 웹 서비스 또한 제공하고 있습니다.
 
 프로젝트의 시스템 구성도는 그림과 같습니다.
 
-![정보융합공학과 이미지](https://user-images.githubusercontent.com/100384365/192478661-5dc79a18-b076-48ef-b842-bcf65b0d8d44.jpg)
+![시스템 구성도](https://user-images.githubusercontent.com/37135287/195737936-93679299-aa98-413a-8e7c-3a1aa5828ba9.png)
 
 ## 4. 프로젝트 소개 영상
 
