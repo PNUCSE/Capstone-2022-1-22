@@ -42,3 +42,8 @@ PEM을 사용해 볼 수 있는 웹 서비스 또한 제공하고 있습니다.
 '우아함'은 score로 표현되며, 점수가 높을수록 잘 작성된 코드로 판단합니다.
 
 score를 제외한 척도들은 수치가 낮을수록 잘 작성된 코드로 판단합니다.
+
+## 6. 라이브러리
+
+[dabeaz](https://github.com/dabeaz) - [PLY - Python Lex-Yacc](https://github.com/dabeaz/ply)
+[PyCQA](https://github.com/PyCQA) - [Flake8](https://github.com/PyCQA/flake8)
