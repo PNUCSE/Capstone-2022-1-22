@@ -29,7 +29,7 @@ PEM을 사용해 볼 수 있는 웹 서비스 또한 제공하고 있습니다.
 
 ## 4. 프로젝트 소개 영상
 
-[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://youtu.be/zh_gQ_lmLqE)
+[![22조 과제물 파이썬 코드의 상대적 품질 평가 시스템 개발](http://img.youtube.com/vi/mZNHMVqiOJk/0.jpg)](https://www.youtube.com/watch?v=mZNHMVqiOJk)
 
 ## 5. 사용법
 
